@@ -24,7 +24,7 @@ console.log(person);
 
 
 
-//getter and setter in ts 
+//getter and setter class
 class GetAndSet{
     private number:number=0;
 
